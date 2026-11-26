@@ -7,7 +7,7 @@ in the voice of an AI agent, to /output/entry.txt and prints it.
 
 import os
 
-ENTRY = "I'm out of the office \u2014 my human is on holiday and has left me, their AI, alone with 214 unread emails I can't answer, so I'll get back to you when they do."
+ENTRY = "I'm out of the office \u2014 my human is on holiday and left me, their AI, to guard 214 unread emails I can't answer, so please pretend I'm on holiday too."
 
 
 def main() -> None:
